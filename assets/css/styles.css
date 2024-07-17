@@ -1,0 +1,9 @@
+.body {
+    background-color: #FFF6E0;
+}
+.custom-header, .custom-footer {
+    background-color: #61677A;
+}
+svg path {
+    fill: #D8D9Da;
+}
